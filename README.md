@@ -2,6 +2,8 @@
 
 > RDD, CDD and TDD
 
+![3-musketeers](https://source.unsplash.com/6I7PthWd8BI/800x600)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -80,7 +82,7 @@ Understand first the library features
 1. Complete the [cash/README.md](./cash/README.md) file with a complete description of installation, usage... of the library
 2. add JSDOC function block for the file [cash/bin/cash.js](./cash/bin/cash.js)
 
-### starwars: TDD
+### [starwars](./starwars): TDD
 
 Understand first the library features
 
